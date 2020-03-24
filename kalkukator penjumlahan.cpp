@@ -38,7 +38,7 @@ int main()
 switch (o)
 {
        case 1: Penjumlahan(); break;
-       case 2: Pembagian(); break;
+       case 2: PembagianZxxs(); break;
        case 3: keluar (); break;
        default : cout<<"Pilihan cuman 5"<<endl;break;
 }
